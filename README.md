@@ -1,1 +1,1 @@
-# sintaxeEOperadores
+# Sintaxes e Operadores
